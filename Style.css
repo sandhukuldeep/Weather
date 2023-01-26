@@ -1,0 +1,26 @@
+table {
+  background-color: white;
+  color: black;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+}
+
+th {
+  background-color: gray;
+}
+#weather_table {
+  background-color: black;
+  color: white;
+}
+
+#weather_table th, #weather_table td {
+  border: 1px solid white;
+  padding: 8px;
+}
+
+#weather_table th {
+  background-color: gray;
+}
